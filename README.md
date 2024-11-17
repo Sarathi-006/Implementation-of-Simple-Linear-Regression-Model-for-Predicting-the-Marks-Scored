@@ -74,21 +74,13 @@ print("RMSE= ",rmse)
 ```
 
 ## Output:
-DATASETS:
-![307611951-9ce613a7-871c-42a8-9eff-b83ace99b155](https://github.com/user-attachments/assets/9f276c89-4dce-4cb9-b3c7-dc0949458daa)
-HEADVALUES:
-![307612004-345b1045-a2b4-4b4e-9945-0986a18926ce](https://github.com/user-attachments/assets/59fff252-1da1-4898-a9a1-54e181e82ad6)
-TAILVALUES:
-![307612029-a60a945b-5202-4793-88fe-e38b4961d0fc](https://github.com/user-attachments/assets/75364f55-0fae-4a74-99ef-7ff9de9331b0)
-X AND Y VALUES:
-![307612053-c2f170e9-eb13-4751-adc2-6902066cdeda](https://github.com/user-attachments/assets/21967c80-650c-46be-b656-c20a19330adb)
-PREDICTION VALUES OF X AND Y:
-![307612078-f6272467-aacc-4dd5-956c-0ddea06fcf37](https://github.com/user-attachments/assets/44c56a19-f1bb-4cfb-8756-58239c118b12)
-MSE,MAE AND RMSE:
-![307612152-78032443-3a6f-45f5-9683-a324d7f7d44d](https://github.com/user-attachments/assets/e93d9276-1d2d-4d19-893c-e5142e8d540d)
-TRAINING SETS:
-![307612165-d73d872e-db20-4fbe-a396-c8bcdea2b373](https://github.com/user-attachments/assets/ce5d3fec-41e8-44fd-9a9d-8e8873b0a02a)
-TRAINING SETS:
-![307612194-179d98ab-8a49-4b48-9b4d-6e7e2b2ede7a](https://github.com/user-attachments/assets/0e1d212a-376b-4c68-b70c-655fe1e3bc34)
+DATASETS:![307611951-9ce613a7-871c-42a8-9eff-b83ace99b155](https://github.com/user-attachments/assets/9f276c89-4dce-4cb9-b3c7-dc0949458daa)
+HEADVALUES:![307612004-345b1045-a2b4-4b4e-9945-0986a18926ce](https://github.com/user-attachments/assets/59fff252-1da1-4898-a9a1-54e181e82ad6)
+TAILVALUES:![307612029-a60a945b-5202-4793-88fe-e38b4961d0fc](https://github.com/user-attachments/assets/75364f55-0fae-4a74-99ef-7ff9de9331b0)
+X AND Y VALUES:![307612053-c2f170e9-eb13-4751-adc2-6902066cdeda](https://github.com/user-attachments/assets/21967c80-650c-46be-b656-c20a19330adb)
+PREDICTION VALUES OF X AND Y:![307612078-f6272467-aacc-4dd5-956c-0ddea06fcf37](https://github.com/user-attachments/assets/44c56a19-f1bb-4cfb-8756-58239c118b12)
+MSE,MAE AND RMSE:![307612152-78032443-3a6f-45f5-9683-a324d7f7d44d](https://github.com/user-attachments/assets/e93d9276-1d2d-4d19-893c-e5142e8d540d)
+TRAINING SETS:![307612165-d73d872e-db20-4fbe-a396-c8bcdea2b373](https://github.com/user-attachments/assets/ce5d3fec-41e8-44fd-9a9d-8e8873b0a02a)
+TRAINING SETS:![307612194-179d98ab-8a49-4b48-9b4d-6e7e2b2ede7a](https://github.com/user-attachments/assets/0e1d212a-376b-4c68-b70c-655fe1e3bc34)
 ## Result:
 Thus the program to implement the simple linear regression model for predicting the marks scored is written and verified using python programming.
